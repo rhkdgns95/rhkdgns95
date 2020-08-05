@@ -6,6 +6,8 @@ KwangHoonKim.
 
 [![KimKwangHoon github stats](https://github-readme-stats.vercel.app/api?username=rhkdgns95&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/bankda/jangbuda-frontend/issues)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://github.com/bankda/jangbuda-frontend/issues?q=is%3Aissue+is%3Aclosed)
 <!--
 **rhkdgns95/rhkdgns95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
