@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-KwangHoonKim.
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhkdgns95)](https://hits.seeyoufarm.com)
-[![KimKwangHoon github stats](https://github-readme-stats.vercel.app/api?username=rhkdgns95)](https://github.com/anuraghazra/github-readme-stats)
+KwangHoonKim.  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhkdgns95)](https://hits.seeyoufarm.com)  
+[![KimKwangHoon github stats](https://github-readme-stats.vercel.app/api?username=rhkdgns95)](https://github.com/anuraghazra/github-readme-stats)  
 <!--
 **rhkdgns95/rhkdgns95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
