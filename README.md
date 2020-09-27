@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 
 
 
+![Waka Readme](https://github.com/rhkdgns95/rhkdgns95/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
