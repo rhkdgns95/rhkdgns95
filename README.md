@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 -->
 
 
+[![kimKwangHoon's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhkdgns95)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Waka Readme](https://github.com/rhkdgns95/rhkdgns95/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
