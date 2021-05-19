@@ -15,4 +15,9 @@ KwangHoonKim.
 
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   45 hrs 45 mins  ███████████████████████░░   91.80 % 
+JSON         3 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Markdown     30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+```
 <!--END_SECTION:waka-->
