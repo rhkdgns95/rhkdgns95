@@ -13,13 +13,13 @@ KwangHoonKim.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 156 Contributions in the Year 2021
  > 
-> 📦 375.7 kB Used in Github's Storage 
+> 📦 375.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,5 +94,5 @@ PHP                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rhkdgns95/rhkdgns95/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/09/2021
+ Last Updated on 12/09/2021
 <!--END_SECTION:waka-->
