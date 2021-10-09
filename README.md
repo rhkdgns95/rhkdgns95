@@ -21,7 +21,7 @@ KwangHoonKim.
 
 > 🏆 157 Contributions in the Year 2021
  > 
-> 📦 379.5 kB Used in GitHub's Storage 
+> 📦 379.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,5 +96,5 @@ PHP                      3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rhkdgns95/rhkdgns95/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/10/2021
+ Last Updated on 09/10/2021
 <!--END_SECTION:waka-->
