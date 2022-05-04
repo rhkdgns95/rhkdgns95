@@ -58,21 +58,16 @@ Sunday       135 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 12 mins       ███████████████████████░░   93.53% 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 26 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-discord-helpdesk-bot     1 hr 43 mins        ████████████░░░░░░░░░░░░░   50.05% 
-soulvoting               1 hr 42 mins        ████████████░░░░░░░░░░░░░   49.92% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 26 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -93,5 +88,5 @@ Java                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rhkdgns95/rhkdgns95/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/05/2022 18:53:29 UTC
+ Last Updated on 04/05/2022 18:56:02 UTC
 <!--END_SECTION:waka-->
