@@ -15,6 +15,8 @@ KwangHoonKim.
 [![trophy](https://github-profile-trophy.vercel.app/?username=rhkdgns95)](https://github.com/rhkdgns95/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -88,5 +90,5 @@ Java                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rhkdgns95/rhkdgns95/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:56:11 UTC
+ Last Updated on 07/05/2022 18:53:34 UTC
 <!--END_SECTION:waka-->
