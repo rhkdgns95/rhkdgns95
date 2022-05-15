@@ -23,7 +23,7 @@ KwangHoonKim.
 
 > 🏆 1 Contributions in the Year 2022
  > 
-> 📦 960.7 kB Used in GitHub's Storage 
+> 📦 960.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,16 +60,17 @@ Sunday       128 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               14 mins             ████████████████████████░   95.72% 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.28%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hyper-sports-club-fronten15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.0%
 
 ```
 
@@ -90,5 +91,5 @@ Java                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rhkdgns95/rhkdgns95/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/05/2022 18:51:50 UTC
+ Last Updated on 15/05/2022 18:51:44 UTC
 <!--END_SECTION:waka-->
