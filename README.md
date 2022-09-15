@@ -31,6 +31,48 @@ KwangHoonKim.
  > 
 > 🔑 44 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    351 commits    █████░░░░░░░░░░░░░░░░░░░░   23.2% 
+🌆 Daytime    643 commits    ██████████░░░░░░░░░░░░░░░   42.5% 
+🌃 Evening    469 commits    ███████░░░░░░░░░░░░░░░░░░   31.0% 
+🌙 Night      50 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       290 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.17% 
+Tuesday      226 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
+Wednesday    210 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+Thursday     246 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
+Friday       258 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+Saturday     129 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
+Sunday       154 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.18%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -48,5 +90,5 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rhkdgns95/rhkdgns95/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 19:07:13 UTC
+ Last Updated on 15/09/2022 19:00:48 UTC
 <!--END_SECTION:waka-->
