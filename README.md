@@ -31,6 +31,13 @@ KwangHoonKim.
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rhkdgns95)](https://github.com/rhkdgns95/github-profile-trophy) -->
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   18 hrs 40 mins  ████████████████████▓░░░░   82.51 %
+JSON         3 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
