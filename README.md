@@ -33,9 +33,13 @@ KwangHoonKim.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   18 hrs 40 mins  ████████████████████▓░░░░   82.51 %
-JSON         3 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+From: 26 December 2022 - To: 02 January 2023
+
+Total Time: 22 hrs 38 mins
+
+TypeScript   18 hrs 40 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀   82.51 %
+JSON         3 hrs 35 mins   ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.84 %
+Other        10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.79 %
 ```
 
 <!--END_SECTION:waka-->
