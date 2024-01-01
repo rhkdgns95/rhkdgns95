@@ -49,3 +49,6 @@ JSON         3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- waka-box start -->
 <!-- waka-box end -->
 
+<strong>20223 My code stats</strong>
+<img src="https://wakatime.com/wrapped/2023/364affbc-e242-4a08-9935-56cca71be912/42a5c75560b665eb4a1d5353ac81afd777d84024.png"> 
+
