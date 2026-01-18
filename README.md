@@ -33,12 +33,12 @@ KwangHoonKim.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 22 hrs 26 mins
+Total Time: 24 hrs 16 mins
 
-Other        22 hrs 4 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.39 %
-TypeScript   21 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.61 %
+Other        23 hrs 54 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.51 %
+TypeScript   21 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.49 %
 ```
 
 <!--END_SECTION:waka-->
