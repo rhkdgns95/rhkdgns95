@@ -1,55 +1,80 @@
-### Hi there 👋
 
-KwangHoonKim.
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=rhkdgns95&color=ff69b4">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhkdgns95">
- <img src="https://github.com/rhkdgns95/rhkdgns95/workflows/Waka%20Readme/badge.svg">
- <img src="https://wakatime.com/badge/user/364affbc-e242-4a08-9935-56cca71be912.svg">
+<div align="center">
+ 
+# Hi, I'm KwangHoon Kim 👋
+ 
+**Web Engineer** · Seoul, Korea 🇰🇷
+ 
+<p>
+  <a href="https://wakatime.com/@rhkdgns95">
+    <img src="https://wakatime.com/badge/user/364affbc-e242-4a08-9935-56cca71be912.svg?style=flat-square" alt="wakatime"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rhkdgns95&style=flat-square&color=6366f1&label=views" alt="profile views"/>
+  <img src="https://github.com/rhkdgns95/rhkdgns95/workflows/Waka%20Readme/badge.svg?style=flat-square" alt="waka readme action"/>
 </p>
-
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhkdgns95)](https://hits.seeyoufarm.com)   -->
-<!-- ![Waka Readme](https://github.com/rhkdgns95/rhkdgns95/workflows/Waka%20Readme/badge.svg) -->
-<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue) -->
-
-<!-- [![KimKwangHoon github stats](https://github-readme-stats.vercel.app/api?username=rhkdgns95&show_icons=true)](https://github.com/rhkdgns95/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkdgns95&layout=compact)](https://github.com/rhkdgns95/github-readme-stats)  
- -->
-
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=rhkdgns95&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkdgns95&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=rhkdgns95&theme=merko&hide_border=true&background=FFFFFF00">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rhkdgns95/rhkdgns95/master/charts/bar_graph.png">
-<!-- ![Chart not found](https://raw.githubusercontent.com/rhkdgns95/rhkdgns95/master/charts/bar_graph.png)  -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rhkdgns95">
-</p>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rhkdgns95)](https://github.com/rhkdgns95/github-profile-trophy) -->
-
+ 
+</div>
+ 
+---
+ 
+## About me
+ 
+TypeScript와 React를 주로 사용하는 Web 엔지니어입니다.  
+ 
+- 🌱 Bun, Opencode, GSD, GSD-2
+- 💬 rhkdgns9489@gmail.com
+ 
+---
+ 
+## Tech Stack
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tanstack Start](https://img.shields.io/badge/TanStack_Start-latest-black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Opencode](https://avatars.githubusercontent.com/u/66570915?s=48&v=4)
+![GSD](https://avatars.githubusercontent.com/u/260490621?s=48&v=4)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+ 
+---
+ 
+## This Week I Coded
+ 
 <!--START_SECTION:waka-->
-
-```txt
-From: 18 March 2026 - To: 25 March 2026
-
-Total Time: 60 hrs 2 mins
-
-Other             47 hrs 37 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   79.32 %
-TypeScript        6 hrs 25 mins         ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.70 %
-Kotlin            2 hrs 42 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.50 %
-Markdown          2 hrs 34 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.29 %
-Text              22 mins               ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.64 %
-JSON              6 mins                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.18 %
-```
-
 <!--END_SECTION:waka-->
-
-<!-- waka-box start -->
-<!-- waka-box end -->
-
-<strong>20223 My code stats</strong>
-<img src="https://wakatime.com/wrapped/2023/364affbc-e242-4a08-9935-56cca71be912/42a5c75560b665eb4a1d5353ac81afd777d84024.png"> 
-
+ 
+---
+ 
+## Stats
+ 
+<!-- GitHub 기본 통계 + 언어 -->
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=rhkdgns95&show_icons=true&count_private=true&hide_border=true&theme=default&hide_rank=true&hide_title=true&icon_color=6366f1" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhkdgns95&layout=compact&hide_border=true&theme=default&langs_count=6" />
+</div>
+ 
+<!-- GitHub 활동 그래프 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhkdgns95&theme=minimal&hide_border=true&area=true&color=6366f1&line=6366f1&point=6366f1&area_color=6366f1" alt="GitHub Activity Graph" />
+</div>
+ 
+<!-- GitHub 트로피 -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rhkdgns95&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=flat" />
+</div>
+ 
+<!-- WakaTime 2025 연간 리포트 이미지 -->
+<!-- ⚠️ wakatime.com/wrapped/2025 에서 본인 연간 리포트 이미지 URL로 교체해주세요 -->
+<!--
+<div align="center">
+  <img src="[YOUR_WAKATIME_2025_WRAPPED_IMAGE_URL_HERE](https://wakatime.com/a-look-back-at-2025/364affbc-e242-4a08-9935-56cca71be912/dwoxksnuig)" alt="WakaTime 2025 Annual Report" />
+</div>
+-->
+ 
+---
+ 
+<div align="center">
+  <sub>📊 자동 업데이트 · WakaTime + GitHub Actions</sub>
+</div>
