@@ -1,23 +1,48 @@
 name: Waka Readme
-
+ 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
-
+    - cron: "0 0 * * *" # 매일 자정 UTC 실행
+ 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          # REPOSITORY: <rhkdgns95/rhkdgns95>
+          # 상위 언어 개수 (기본값: 5)
+          LANG_COUNT: 6
+          # 커밋 메시지 커스텀
+          COMMIT_MESSAGE: "📊 WakaTime stats updated"
+
+# name: Waka Readme
+
+# on:
+#   workflow_dispatch: # for manual workflow trigger
+#   schedule:
+#     - cron: "0 0 * * *" # runs at every 12AM UTC
+
+# jobs:
+#   update-readme:
+#     name: WakaReadme DevMetrics
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           # following flags are required, only if this is not on
+#           # profile readme, remove the leading `#` to use them
+#           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#           SHOW_TITLE: true
+#           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+#           SHOW_TIME: true
+#           SHOW_MASKED_TIME: true
+#           # REPOSITORY: <rhkdgns95/rhkdgns95>
