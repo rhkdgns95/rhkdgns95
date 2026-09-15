@@ -46,12 +46,12 @@ TypeScript와 React를 주로 사용하는 Web 엔지니어입니다.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2026 - To: 13 September 2026
+From: 07 September 2026 - To: 14 September 2026
 
-Total Time: 33 hrs 16 mins
+Total Time: 23 hrs 29 mins
 
-Other   32 hrs 43 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.37 %
-JSON    32 mins               ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.63 %
+Other   23 hrs 27 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.85 %
+JSON    2 mins                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.15 %
 ```
 
 <!--END_SECTION:waka-->
